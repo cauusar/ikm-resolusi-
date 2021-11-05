@@ -2,3 +2,5 @@ ikm resolusi
 template
 database
 collab
+healing
+stressing
