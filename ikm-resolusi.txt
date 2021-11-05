@@ -2,5 +2,6 @@ ikm resolusi
 template
 database
 collab
-healing
+belajar git
+belajar github
 
